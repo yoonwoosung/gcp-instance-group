@@ -9,7 +9,7 @@
 - PowerShell, Xshell (SSH 접속)
 - Google Cloud Console
 
-## 🖼 실습 화면 예시
+##  실습 화면 예시
 (아래는 내가 실습 중 캡처한 화면들입니다)
 
 - 인스턴스 그룹 생성 완료 화면
